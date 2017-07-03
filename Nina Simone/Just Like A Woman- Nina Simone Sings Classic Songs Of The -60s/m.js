@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Just Like a Woman.mp3";		
+f[2]	= "02 Here Comes the Sun.mp3";		
+f[3]	= "03 I Think It's Going to Rain Today.mp3";		
+f[4]	= "05 Who Knows Where the Time Goes [Live].mp3";		
+f[5]	= "06 In the Morning.mp3";		
+f[6]	= "07 I Shall Be Released.mp3";		
+f[7]	= "08 Turn Turn (To Everything There Is a Season) [Live].mp3";		
+f[8]	= "09 To Love Somebody [Live].mp3";		
+f[9]	= "10 House of the Rising Sun.mp3";		
+f[10]	= "11 Just Like Tom Thumb's Blues.mp3";		
+f[11]	= "12 The Pusher [Live].mp3";		
+f[12]	= "13 Mr. Bojangles [Live].mp3";		
+f[13]	= "14 My Father.mp3";		
+f[14]	= "Suzanne.mp3";		
