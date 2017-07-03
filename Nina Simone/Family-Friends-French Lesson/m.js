@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Never Cry.mp3";		
+f[2]	= "02 Exactly Like You.mp3";		
+f[3]	= "03 Nobody Wants You When You're Down - Out.mp3";		
+f[4]	= "05 Love Me With Your Fantasy.mp3";		
+f[5]	= "06 Papers Can't Erase the Memories.mp3";		
+f[6]	= "08 You've Got To Learn.mp3";		
+f[7]	= "10 Whatever Lola Wants.mp3";		
+f[8]	= "11 Rich Girl.mp3";		
+f[9]	= "12 French Lesson.mp3";		
+f[10]	= "13 Ne Me Quitte Pas.mp3";		
+f[11]	= "14 Amsterdam Jam.mp3";		
+f[12]	= "15 It Don't Mean a Thing.mp3";		
+f[13]	= "Baltimore.mp3";		
+f[14]	= "Bar-B-Que.mp3";		
+f[15]	= "Misty.mp3";		
